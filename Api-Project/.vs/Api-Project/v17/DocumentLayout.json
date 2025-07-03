@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kaan\\Desktop\\Api-Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\desktop\\api-project\\api-project.webapi\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\desktop\\api-project\\api-project.webapi\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Entities\\Message.cs",
-              "RelativeDocumentMoniker": "Api-Project.WebApi\\Entities\\Message.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Entities\\Message.cs",
-              "RelativeToolTip": "Api-Project.WebApi\\Entities\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Context\\ApiContext.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Context\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Context\\ApiContext.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Context\\ApiContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T15:47:05.364Z",
+              "WhenOpened": "2025-07-03T16:45:24.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChefsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\ChefsController.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Controllers\\ChefsController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\ChefsController.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Controllers\\ChefsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:29:01.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Entities\\Contact.cs",
-              "RelativeDocumentMoniker": "Api-Project.WebApi\\Entities\\Contact.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Entities\\Contact.cs",
-              "RelativeToolTip": "Api-Project.WebApi\\Entities\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T15:45:50.443Z",
+              "WhenOpened": "2025-07-03T16:08:01.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Program.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:07:15.827Z",
               "EditorCaption": ""
             }
           ]

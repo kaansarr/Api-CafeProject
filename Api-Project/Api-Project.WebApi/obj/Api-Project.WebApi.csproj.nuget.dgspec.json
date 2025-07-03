@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Api-Project.WebApi.csproj": {}
+    "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Api-Project.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Api-Project.WebApi.csproj": {
+    "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Api-Project.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Api-Project.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Api-Project.WebApi.csproj",
         "projectName": "Api-Project.WebApi",
-        "projectPath": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Api-Project.WebApi.csproj",
+        "projectPath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Api-Project.WebApi.csproj",
         "packagesPath": "C:\\Users\\Kaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -68,6 +68,8 @@
               "version": "[6.0.36, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.36, )"
             },
