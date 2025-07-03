@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaan\\Desktop\\Api-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\desktop\\api-project\\api-project.webapi\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\desktop\\api-project\\api-project.webapi\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Entities\\Message.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:47:05.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Desktop\\Api-Project\\Api-Project.WebApi\\Entities\\Contact.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:45:50.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
