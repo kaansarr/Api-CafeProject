@@ -16,47 +16,44 @@ namespace Api_Project.WebApi.Controllers
 			_context = context;
 		}
 
-
 		[HttpGet]
-		public IActionResult ChefList() 
-		{ 
+		public IActionResult ChefList()
+		{
 			var values=_context.Chefs.ToList();
 			return Ok(values);
 		}
 
 		[HttpPost]
-		public IActionResult CreateChef(Chef chef)
-		{
+		public IActionResult CreateChef(Chef chef) 
+		{ 
 			_context.Chefs.Add(chef);
 			_context.SaveChanges();
-			return Ok("Şef Sisteme eklendi");
+			return Ok("Şef Başarıyla eklendi");
 		}
-
-
 		[HttpDelete]
 		public IActionResult DeleteChef(int id)
 		{
 			var values=_context.Chefs.Find(id);
 			_context.Chefs.Remove(values);
 			_context.SaveChanges();
-			return Ok("Şef sistemden silindi");
-
+			return Ok("Başarıyla silindi");
 		}
-
 		[HttpGet("GetChef")]
 		public IActionResult GetChef(int id) 
 		{ 
-			var values= _context.Chefs.Find(id);
+			var values=_context.Chefs.Find(id);
 			return Ok(values);
 		}
 
-
 		[HttpPut]
 		public IActionResult UpdateChef(Chef chef)
-		{
+		{ 
 			_context.Chefs.Update(chef);
 			_context.SaveChanges();
-			return Ok("Şef Güncellendi");
+			return Ok("Başarıyla güncellendi");
 		}
+
+
 	}
+	
 }
