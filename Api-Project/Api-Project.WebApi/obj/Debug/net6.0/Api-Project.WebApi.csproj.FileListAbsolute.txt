@@ -115,3 +115,5 @@ C:\Users\Kaan\Documents\GitHub\Api-Project\Api-CafeProject\Api-Project\Api-Proje
 C:\Users\Kaan\Documents\GitHub\Api-Project\Api-CafeProject\Api-Project\Api-Project.WebApi\obj\Debug\net6.0\Api-Project.WebApi.pdb
 C:\Users\Kaan\Documents\GitHub\Api-Project\Api-CafeProject\Api-Project\Api-Project.WebApi\obj\Debug\net6.0\Api-Project.WebApi.genruntimeconfig.cache
 C:\Users\Kaan\Documents\GitHub\Api-Project\Api-CafeProject\Api-Project\Api-Project.WebApi\obj\Debug\net6.0\ref\Api-Project.WebApi.dll
+C:\Users\Kaan\Documents\GitHub\Api-Project\Api-CafeProject\Api-Project\Api-Project.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Kaan\Documents\GitHub\Api-Project\Api-CafeProject\Api-Project\Api-Project.WebApi\bin\Debug\net6.0\FluentValidation.dll
