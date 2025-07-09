@@ -1,5 +1,6 @@
 ﻿using Api_Project.WebApi.Context;
 using Api_Project.WebApi.Entities;
+using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,16 +11,18 @@ namespace Api_Project.WebApi.Controllers
 	public class CategoriesController : ControllerBase
 	{
 		private readonly ApiContext _context;
-		public CategoriesController(ApiContext context)
+		private readonly IMapper _mapper;
+		public CategoriesController(ApiContext context, IMapper mapper)
 		{
 			_context = context;
+			_mapper = mapper;
 		}
 
 		[HttpGet]
 		public IActionResult CategoryList()
 		{
-			var values = _context.Categories.ToList();
-			return Ok(values);
+			var value=_context.Categories.ToList();
+			return (_mapper.Map<>)
 		}
 
 		[HttpPost]

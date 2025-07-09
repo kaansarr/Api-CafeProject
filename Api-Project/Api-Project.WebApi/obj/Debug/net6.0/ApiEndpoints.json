@@ -429,6 +429,22 @@
   },
   {
     "ContainingType": "Api_Project.WebApi.Controllers.ProductController",
+    "Method": "CreateProductWithCategory",
+    "RelativePath": "api/Product/CreateProductWithCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createProductDto",
+        "Type": "Api_Project.WebApi.Dtos.ProductDtos.CreateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Project.WebApi.Controllers.ProductController",
     "Method": "GetProduct",
     "RelativePath": "api/Product/GetProduct",
     "HttpMethod": "GET",
@@ -441,6 +457,16 @@
         "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_Project.WebApi.Controllers.ProductController",
+    "Method": "ProductListWithCategory",
+    "RelativePath": "api/Product/ProductListWithCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

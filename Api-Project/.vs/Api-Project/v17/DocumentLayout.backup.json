@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\validationrules\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\validationrules\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\dtos\\featuredtos\\resultfeaturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\dtos\\featuredtos\\resultfeaturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\dtos\\categotydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\dtos\\categotydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|c:\\users\\kaan\\documents\\github\\api-project\\api-cafeproject\\api-project\\api-project.webapi\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1895D30-1419-45DB-B33C-FEFB158A5E5B}|Api-Project.WebApi\\Api-Project.WebApi.csproj|solutionrelative:api-project.webapi\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Api-Project.WebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Api-Project.WebApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAuwE4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Dtos\\CategotyDtos\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Dtos\\CategotyDtos\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Dtos\\CategotyDtos\\CreateCategoryDto.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Dtos\\CategotyDtos\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:56:06.54Z",
+              "WhenOpened": "2025-07-08T09:53:54.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\ValidationRules\\ProductValidator.cs",
-              "RelativeDocumentMoniker": "Api-Project.WebApi\\ValidationRules\\ProductValidator.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\ValidationRules\\ProductValidator.cs",
-              "RelativeToolTip": "Api-Project.WebApi\\ValidationRules\\ProductValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:47:05.096Z",
+              "WhenOpened": "2025-07-08T09:52:09.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GeneralMapping.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Mapping\\GeneralMapping.cs",
-              "RelativeDocumentMoniker": "Api-Project.WebApi\\Mapping\\GeneralMapping.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Mapping\\GeneralMapping.cs",
-              "RelativeToolTip": "Api-Project.WebApi\\Mapping\\GeneralMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:21:26.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResultFeatureDto.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Dtos\\FeatureDtos\\ResultFeatureDto.cs",
-              "RelativeDocumentMoniker": "Api-Project.WebApi\\Dtos\\FeatureDtos\\ResultFeatureDto.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Dtos\\FeatureDtos\\ResultFeatureDto.cs",
-              "RelativeToolTip": "Api-Project.WebApi\\Dtos\\FeatureDtos\\ResultFeatureDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:21:02.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MessageController.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\MessageController.cs",
-              "RelativeDocumentMoniker": "Api-Project.WebApi\\Controllers\\MessageController.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\MessageController.cs",
-              "RelativeToolTip": "Api-Project.WebApi\\Controllers\\MessageController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowBsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:08:01.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ContactsController.cs",
               "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "Api-Project.WebApi\\Controllers\\ContactsController.cs",
               "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "Api-Project.WebApi\\Controllers\\ContactsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAywCEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:08:00.063Z",
+              "WhenOpened": "2025-07-08T08:30:19.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FeaturesController.cs",
-              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\FeaturesController.cs",
-              "RelativeDocumentMoniker": "Api-Project.WebApi\\Controllers\\FeaturesController.cs",
-              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\FeaturesController.cs",
-              "RelativeToolTip": "Api-Project.WebApi\\Controllers\\FeaturesController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAiwDoAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ChefsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\ChefsController.cs",
+              "RelativeDocumentMoniker": "Api-Project.WebApi\\Controllers\\ChefsController.cs",
+              "ToolTip": "C:\\Users\\Kaan\\Documents\\GitHub\\Api-Project\\Api-CafeProject\\Api-Project\\Api-Project.WebApi\\Controllers\\ChefsController.cs",
+              "RelativeToolTip": "Api-Project.WebApi\\Controllers\\ChefsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:07:14.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T08:29:55.095Z"
             }
           ]
         }

@@ -1,6 +1,6 @@
 ﻿namespace Api_Project.WebApi.Dtos.ContactDtos
 {
-	public class GetByIdDto
+	public class GetByIdContactDto
 	{
 		public int ContactId { get; set; }
 		public string MapLocation { get; set; }
